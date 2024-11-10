@@ -26,6 +26,7 @@ FlashPing es una herramienta automatizada para enviar mensajes masivos en NGL.li
 
    ```bash
    git clone https://github.com/DozerMx/FlashPing.git
+   ```
 
 2. Instala las dependencias:
 
@@ -43,7 +44,7 @@ pip install -r requirements.txt
 
 ```bash
 python FlashPing.py
-
+```
 
 3. Ingresa los datos cuando se te soliciten:
 
