@@ -12,7 +12,7 @@ Creado con el máximo cuidado por DozerMx
 
 ## 🤔 ¿Qué es FlashPing?
 
-FlashPing es una herramienta creada xon fines educativos automatizada para enviar mensajes masivos en NGL.link. Permite el envío rápido y eficiente de mensajes, eludiendo las restricciones de la plataforma.
+FlashPing es una herramienta creada con fines educativos automatizada para enviar mensajes masivos en NGL.link. Permite el envío rápido y eficiente de mensajes, eludiendo las restricciones de la plataforma.
 
 ## 📋 Requisitos
 
