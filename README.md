@@ -27,7 +27,8 @@ FlashPing es una herramienta creada con fines educativos automatizada para envia
    ```bash
    git clone https://github.com/DozerMx/FlashPing.git
    ```
-    
+
+
    2. Ingresa al cd del repositorio:
 
    ```bash
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 
-3. Ejecuta el script:
+4. Ejecuta el script:
 
 ```bash
 python FlashPing.py
