@@ -1,7 +1,7 @@
 # FlashPing 🚀 - NGL Spammer
 
 <div align="center">
-    <img src="/api/placeholder/800/200" alt="FlashPing Banner">
+    <img src="/api/placeholder/800/200" alt="FlashPing.png">
     <p>Herramienta automatizada para spam de mensajes en NGL.link</p>
 </div>
 
