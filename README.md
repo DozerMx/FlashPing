@@ -26,29 +26,23 @@ FlashPing es una herramienta creada con fines educativos automatizada para envia
 
    ```bash
    git clone https://github.com/DozerMx/FlashPing.git
-   ```
 
+2. Ingresa al directorio del repositorio:
 
-   2. Ingresa al cd del repositorio:
+cd FlashPing
 
-   ```bash
-   cd FlashPing
-   ```
 
 3. Instala las dependencias:
 
-```bash
 pip install -r requirements.txt
-```
 
 
 4. Ejecuta el script:
 
-```bash
 python FlashPing.py
-```
 
-3. Ingresa los datos cuando se te soliciten:
+
+5. Ingresa los datos cuando se te soliciten:
 
 Username: El nombre de usuario de NGL (sin el @).
 
@@ -57,8 +51,6 @@ Message: El texto que quieres enviar.
 Count: Número de mensajes.
 
 Delay: Tiempo entre mensajes (0 para sin delay).
-
-
 
 
 ⚠️ Advertencias
