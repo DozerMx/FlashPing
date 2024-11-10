@@ -29,18 +29,21 @@ FlashPing es una herramienta creada con fines educativos automatizada para envia
 
 2. Ingresa al directorio del repositorio:
 
+```bash
 cd FlashPing
-
+```
 
 3. Instala las dependencias:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Ejecuta el script:
 
+```bash
 python FlashPing.py
-
+```
 
 5. Ingresa los datos cuando se te soliciten:
 
