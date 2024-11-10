@@ -7,12 +7,12 @@
 
 ## ⚠️ Derechos de Autor
 
-Creado con el máximo cuidado por DozerMx ❤️  
+Creado con el máximo cuidado por DozerMx  
 © 2024 DozerMx. Todos los derechos reservados.
 
 ## 🤔 ¿Qué es FlashPing?
 
-FlashPing es una herramienta automatizada para enviar mensajes masivos en NGL.link. Permite el envío rápido y eficiente de mensajes, eludiendo las restricciones de la plataforma.
+FlashPing es una herramienta creada xon fines educativos automatizada para enviar mensajes masivos en NGL.link. Permite el envío rápido y eficiente de mensajes, eludiendo las restricciones de la plataforma.
 
 ## 📋 Requisitos
 
@@ -27,20 +27,21 @@ FlashPing es una herramienta automatizada para enviar mensajes masivos en NGL.li
    ```bash
    git clone https://github.com/DozerMx/FlashPing.git
    ```
+    
+   2. Ingresa al cd del repositorio:
 
-2. Instala las dependencias:
+   ```bash
+   cd FlashPing
+   ```
+
+3. Instala las dependencias:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 
-🎮 Uso
-
-1. Asegúrate de tener el archivo user-agents.txt en la misma carpeta del proyecto.
-
-
-2. Ejecuta el script:
+3. Ejecuta el script:
 
 ```bash
 python FlashPing.py
@@ -72,8 +73,6 @@ Usa VPN si te bloquean.
 
 GitHub: DozerMx
 
-¿Encontraste un bug? ¡Avísame!
-
 
 📜 Licencia
 
@@ -83,6 +82,6 @@ Código abierto. Da crédito donde corresponde.
 ---
 
 <div align="center">
-    <p>Hecho con ❤️ por DozerMx</p>
+    <p>Hecho por DozerMx</p>
     <p>© 2024 - Úsalo con responsabilidad.</p>
 </div>
